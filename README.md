@@ -1,4 +1,4 @@
-# Customer Segmentation via Spectral Clustering
+# Data Analysis using Spectral Clustering Algorithms
 
 Groups the customers of the **Online Retail II** dataset by *which products they buy*, compares
 Spectral, K-Means and Agglomerative clustering with three validation metrics, 2-D visualisations
