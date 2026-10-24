@@ -58,7 +58,7 @@ running end to end (including a too-strict-filters error case).
 
 ## Acknowledgement and what is new
 The overall design (clean, customer x product matrix, L2 + SVD, three algorithms, three metrics,
-Streamlit dashboard) follows an earlier student project on this dataset by **Shrushti**. This repository
+Streamlit dashboard) follows an earlier student project on this dataset. This repository
 differs as follows:
 
 * **Cleaning bug fixed.** The earlier filter searched descriptions for `POSTAGE|DISCOUNT|ADJUSTMENT|M|DOTCOM`;
