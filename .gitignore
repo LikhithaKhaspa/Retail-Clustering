@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+outputs/
+# the real dataset is ~90 MB: download it from UCI instead of committing it
+data/online_retail_II.csv
+data/online_retail_II.xlsx

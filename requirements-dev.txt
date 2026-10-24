@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest==9.1.1
+ipykernel==7.4.0
+nbformat==5.11.1
+nbconvert==7.17.2
+# To open the notebook: pip install notebook   (or open notebooks/*.ipynb in VS Code)
